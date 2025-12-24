@@ -1,0 +1,12 @@
+# Ignore real or private data
+data/raw/
+*.zip
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+.ipynb_checkpoints/
